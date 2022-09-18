@@ -1,0 +1,220 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgrey;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    background-color:  white;
+}
+
+.Menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans';
+    gap: 50px;
+}
+
+a{
+    font-size: 20px;
+}
+
+a:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+
+.Logosite{
+    width: 40%;
+}
+
+.Panier{
+    width: 5%;
+}
+
+
+
+.bannière img{
+    width: 100%;
+    height: 50%;
+    margin-top: 5%;
+}
+
+.bannière h1 {
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    font-size: 30px;
+    font-family: 'Open Sans';
+}
+
+.bannière p{
+    display: block;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+
+
+.fête{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.fête h1{
+    font-size: 40px;
+    font-family: 'Open Sans';
+    margin-bottom: 8%; 
+}
+
+.fête p{
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+
+
+.fête img{
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+.météo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.météo h1{
+    font-size: 40px;
+    font-family: 'Open Sans';
+    margin-bottom: 8%;
+}
+
+.météo p{
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+
+
+.météo img{
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.minuteur{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.minuteur h1{
+    font-size: 40px;
+    font-family: 'Open Sans';
+    margin-bottom: 8%;
+}
+
+.minuteur p{
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+
+
+.minuteur img{
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+.coucher{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coucher h1{
+    font-size: 40px;
+    font-family: 'Open Sans';
+    margin-bottom: 8%;
+}
+
+.coucher p{
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+
+
+.coucher img{
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+.messages{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.messages h1{
+    font-size: 40px;
+    font-family: 'Open Sans';
+    margin-bottom: 8%;
+}
+
+.messages p{
+    font-size: 20px;
+    font-family: 'Open Sans';
+}
+
+
+.messages img{
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+.footer{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Logo{
+    width: 10%;
+}
+
+.footer img{
+    width: 20%;
+
+}
+
+.footer h1{
+    font-size: 15px;
+    font-family: 'Open Sans';
+    margin-left: 5%;
+}
+
+
